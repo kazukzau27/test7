@@ -1,2 +1,2 @@
 # test7
-## Laravelプログラミングん練習
+## Laravelプログラミング練習
